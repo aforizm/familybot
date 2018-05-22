@@ -7,7 +7,7 @@ Name - Family_bot
 
 Description - A bot for telegrams, 
 	which shows how many days have passed 
-	since the significant date
+	since the significant date.
 
 Author - Kharlamov Ilya
 '''
